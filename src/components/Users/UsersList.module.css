@@ -1,0 +1,27 @@
+.users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+  display: flex;
+  justify-content: space-between;
+}
+.users ul {
+  list-style: none;
+  padding: 0.5rem;
+  text-align: left;
+}
+.users li {
+  position: relative;
+  border: 1px solid #ccc;
+  padding: 0 14rem;
+  text-align: left;
+}
+ul button {
+  position: relative;
+  left: 18rem;
+  bottom: 0.5rem;
+  color: rgb(251, 246, 252);
+  background-color: #4f005f;
+  padding: 0 1rem;
+  font-size: 1rem;
+}
